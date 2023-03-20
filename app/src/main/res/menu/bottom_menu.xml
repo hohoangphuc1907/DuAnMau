@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Phiếu mượn"
+    android:icon="@drawable/phieumuon"
+    android:id="@+id/bottomphieumuon">
+</item>
+
+    <item android:title="Danh sách đăng ký mượn"
+        android:id="@+id/bottomdanhsach">
+    </item>
+
+
+</menu>

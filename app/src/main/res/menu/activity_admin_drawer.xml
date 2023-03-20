@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/menu_home" />
+
+    </group>
+    <item android:title="Thống kê">
+        <menu>
+            <item
+                android:id="@+id/nav_thongkedoanhthu"
+                android:icon="@drawable/money"
+                android:title="Thống kê doanh thu" />
+            <item
+                android:id="@+id/nav_top10"
+                android:icon="@drawable/top10"
+                android:title="Thống kê top 10 sách mượn nhiều" />
+
+        </menu>
+
+
+    </item>
+    <item android:title="Bảo mật">
+        <menu>
+            <item
+                android:id="@+id/nav_taotaikhoan"
+                android:icon="@drawable/addtaikhoan"
+                android:title="Tạo tài khoản" />
+            <item
+                android:id="@+id/nav_doimatkhau"
+                android:icon="@drawable/password"
+                android:title="Đổi mật khẩu" />
+            <item
+                android:id="@+id/nav_thoat"
+                android:icon="@drawable/logout"
+                android:title="Thoát" />
+
+        </menu>
+
+
+    </item>
+</menu>

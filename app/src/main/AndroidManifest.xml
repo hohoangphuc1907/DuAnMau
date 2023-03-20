@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lamthuasm_duanmau">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LamThuASM_DUANMAU">
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ManHinhChaoActivity"
+            android:exported="true"
+            android:label="Dự án mẫu">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".XemLoaiSachActivity"
+            android:exported="true"
+            android:label="Loại Sách" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".XemXoaPhieuDangKyActivity"
+            android:exported="true"
+            android:label="Danh Sách" />
+        <activity
+            android:name=".PhieuDangKyActivity"
+            android:exported="true"
+            android:label="Đăng ký" />
+        <activity
+            android:name=".XemThanhVienActivity"
+            android:exported="true"
+            android:label="Thành Viên" />
+        <activity
+            android:name=".PhieuMuonActivity"
+            android:exported="true"
+            android:label="Phiếu Mượn"
+            android:parentActivityName=".Menu.MenuAdmin"
+            android:theme="@style/Theme.LamThuASM_DUANMAU.NoActionBar" />
+        <activity
+            android:name=".ThanhVienActivity"
+            android:exported="true"
+            android:label="Thành Viên" />
+        <activity
+            android:name=".LoaiSachActivity"
+            android:exported="true"
+            android:label="Loại Sách" />
+        <activity
+            android:name=".SachActivity"
+            android:exported="true"
+            android:label="Sách"
+            android:parentActivityName=".Menu.MenuAdmin"
+            android:theme="@style/Theme.LamThuASM_DUANMAU.NoActionBar" />
+        <activity
+            android:name=".XemSachActivity"
+            android:exported="true"
+            android:label="Sách" />
+        <activity
+            android:name=".Menu.MenuThuThu"
+            android:exported="true"
+            android:label="MenuThuThu"
+            android:theme="@style/Theme.LamThuASM_DUANMAU.NoActionBar" />
+        <activity
+            android:name=".Menu.MenuNguoiDung"
+            android:exported="true"
+            android:label="MenuNguoiDung"
+            android:theme="@style/Theme.LamThuASM_DUANMAU.NoActionBar" />
+        <activity
+            android:name=".Menu.MenuAdmin"
+            android:exported="true"
+            android:label="@string/title_activity_menu_admin"
+            android:theme="@style/Theme.LamThuASM_DUANMAU.NoActionBar" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true"
+            android:label="Đăng nhập"></activity>
+    </application>
+
+</manifest>

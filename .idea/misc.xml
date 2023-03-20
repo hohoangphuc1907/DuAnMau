@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/drawable/custom.xml" value="0.1" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/drawable/custom_edittext.xml" value="0.1" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/drawable/mauchu.xml" value="0.1" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_loai_sach.xml" value="0.264" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_main.xml" value="0.16530797101449277" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_man_hinh_chao.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_menu_admin.xml" value="0.16530797101449277" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_menu_nguoidung.xml" value="0.182518115942029" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_menu_thuthu.xml" value="0.16530797101449277" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_phieu_dang_ky.xml" value="0.264" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_phieu_muon.xml" value="0.1" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_sach.xml" value="0.176" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_thanh_vien.xml" value="0.1" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_xem_loai_sach.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_xem_thanh_vien.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_xemphieu_dang_ky.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/activity_xemsach.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/app_bar_menu_admin.xml" value="0.16530797101449277" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/app_bar_menu_nguoidung.xml" value="0.182518115942029" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/content_menu_admin.xml" value="0.16530797101449277" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/content_menu_nguoidung.xml" value="0.182518115942029" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/dialog_dangkyphieumuon.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/dialog_phieumuon.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/dialog_sualoaisach.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/dialog_suaphieumuon.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/dialog_suasach.xml" value="0.264" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/dialog_suathanhvien.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/dialog_themLoaiSach.xml" value="0.1" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/dialog_themloaisach.xml" value="0.264" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/dialog_themsach.xml" value="0.264" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/fragment_gallery.xml" value="0.16530797101449277" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_dangkyphieumuon.xml" value="0.536" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_doiMatKhau.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_doimatkhau.xml" value="0.1" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_home.xml" value="0.264" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_loaisach.xml" value="0.1" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_phieumuon.xml" value="0.2" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_sach.xml" value="0.1" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_taotaikhoan.xml" value="0.1" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_thanhvien.xml" value="0.4" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_thongke_top10.xml" value="0.1" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_xemdangkyphieumuon.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_xemloaisach.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_xemsach.xml" value="0.264" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/layout_xemthanhvien.xml" value="0.536" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/nav_header_menu_admin.xml" value="0.16530797101449277" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/tensach_item_spinner.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/tenthanhvien_item_spinner.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/thongkedoanhthu_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/layout/thongketop10_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/menu/activity_admin_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/menu/activity_nguoidung_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/menu/activity_thuthu_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/menu/bottom_menu.xml" value="0.176" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/menu/menu_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/LamThuASM_DUANMAU/app/src/main/res/menu/menu_thu_thu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.25416666666666665" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
